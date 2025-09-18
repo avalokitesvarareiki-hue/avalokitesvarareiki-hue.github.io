@@ -24,9 +24,9 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Eah"
   pronouns         : # example: "η"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Απομανητοφωνήσεις Ομαδικών Συνεδριών Διαυλισμού και Διαλογισμού"
   location         : "Αθήνα"
   email            : "avalokitesvara.reiki@gmail.com" 
 
@@ -34,11 +34,11 @@ author:
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
   books:
-    title: 'Books'
+    title: 'Ελευσίνια Μυσηρια'
   manuscripts:
-    title: 'Journal Articles'    
+    title: 'Κύκλοι Διαυλισμού'    
   conferences:
-    title: 'Conference Papers'
+    title: 'Διαλογισμοί / Παραμύθια'
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/ for social media previews
